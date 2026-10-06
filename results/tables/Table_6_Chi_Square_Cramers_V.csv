@@ -1,0 +1,5 @@
+"Factor","Chi_Square","Degrees_of_Freedom","P_Value","Cramers_V","Interpretation"
+"Sex",1729003,1,"<0.001",0.25,"Moderate association"
+"Age group",4018764,2,"<0.001",0.39,"Moderate-to-strong association"
+"Rural–urban residence",40859,1,"<0.001",0.04,"Very small association"
+"Disability type",637172,7,"<0.001",0.15,"Small association"
